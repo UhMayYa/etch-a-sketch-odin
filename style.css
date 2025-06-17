@@ -1,0 +1,26 @@
+body{
+    height: 100vh;
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#etch-container{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    width: 300px;
+    border: 1px solid black;
+}
+
+#etch-container div{
+    display: flex;
+}
+
+#grid-create-button
+{
+    margin: 20px 0px;
+    padding: 10px;
+}

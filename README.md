@@ -1,1 +1,1 @@
-# etch-a-sketch-odin
+Following is code as per instructions in the lesson.
